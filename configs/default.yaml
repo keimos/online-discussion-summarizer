@@ -1,0 +1,9 @@
+clustering:
+  num_clusters: 3
+  random_state: 42
+
+summarization:
+  model_name: "facebook/bart-large-cnn"
+  max_length: 120
+  min_length: 40
+  do_sample: false

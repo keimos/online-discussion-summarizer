@@ -1,0 +1,12 @@
+*.idea
+*.vscode
+*.DS_Store
+
+# Development with Python
+python/**/bin
+python/**/etc
+python/**/lib
+python/**/lib64
+python/**/include
+python/**/share
+python/**/pyenv.cfg
